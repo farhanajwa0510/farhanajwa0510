@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nur Farha Najwa Binti Mohammad Fahmy
 
-<!--
-**farhanajwa0510/farhanajwa0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third year student at UiTM Shah Alam and I am interested in web development and AI.
 
-Here are some ideas to get you started:
+## About me
+- Studying: Bachelor’s Degree in Computer Science with Honors, UiTM 
+- Currently learning: Data Mining, Parallel Processing, Algorithm Design & Analysis, Dynamic Web Development, AI
+- My FYP area: Web Development and AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+C++, JAVA, HTML, CSS, SQL, NETBEANS, FRONT-END WEBSITE DESIGN
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [your profile link]
+- Email: 2024415316@student.uitm.edu.my
