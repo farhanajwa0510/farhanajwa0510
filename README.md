@@ -8,11 +8,16 @@ I am a third year student at UiTM Shah Alam and I am interested in web developme
 - My FYP area: Web Development and AI
 
 ## Skills and tools
-C++, JAVA, HTML, CSS, SQL, NETBEANS, FRONT-END WEBSITE DESIGN
+- C++
+- JAVA
+- HTML, CSS
+- SQL
+- NETBEANS
+
 
 ## Projects
-- [Project name](link-to-your-repository): one sentence about it
+-  Personal Website for Subject Assessment
 
 ## Contact
-- LinkedIn: [your profile link]
+- LinkedIn: https://www.linkedin.com/in/nur-farha-najwa-mohammad-fahmy-b3a674418/?isSelfProfile=true
 - Email: 2024415316@student.uitm.edu.my
