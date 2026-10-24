@@ -17,6 +17,7 @@ I am a third year student at UiTM Shah Alam and I am interested in web developme
 
 ## Projects
 -  Personal Website for Subject Assessment
+-  Web-Based Harmful Elsagate Content Detection in Children's Entertainment Videos Using Deep Learning 
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/nur-farha-najwa-mohammad-fahmy-b3a674418/?isSelfProfile=true
